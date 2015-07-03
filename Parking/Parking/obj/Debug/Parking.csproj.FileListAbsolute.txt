@@ -4,3 +4,6 @@ C:\Users\Mocha\Documents\Parking\Parking\bin\Debug\Parking.exe
 C:\Users\Mocha\Documents\Parking\Parking\bin\Debug\Parking.pdb
 C:\Users\Mocha\Documents\Parking\Parking\obj\Debug\Parking.exe
 C:\Users\Mocha\Documents\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\Mocha\Documents\B-Git\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\Mocha\Documents\B-Git\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\Mocha\Documents\B-Git\Parking\Parking\obj\Debug\Parking.pdb

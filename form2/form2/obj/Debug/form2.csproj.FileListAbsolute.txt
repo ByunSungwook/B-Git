@@ -1,0 +1,9 @@
+C:\Users\Mocha\Documents\B-Git\form2\form2\bin\Debug\form2.exe.config
+C:\Users\Mocha\Documents\B-Git\form2\form2\bin\Debug\form2.exe
+C:\Users\Mocha\Documents\B-Git\form2\form2\bin\Debug\form2.pdb
+C:\Users\Mocha\Documents\B-Git\form2\form2\obj\Debug\form2.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\Documents\B-Git\form2\form2\obj\Debug\form2.Form1.resources
+C:\Users\Mocha\Documents\B-Git\form2\form2\obj\Debug\form2.Properties.Resources.resources
+C:\Users\Mocha\Documents\B-Git\form2\form2\obj\Debug\form2.csproj.GenerateResource.Cache
+C:\Users\Mocha\Documents\B-Git\form2\form2\obj\Debug\form2.exe
+C:\Users\Mocha\Documents\B-Git\form2\form2\obj\Debug\form2.pdb
