@@ -1,0 +1,11 @@
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\CSTO.exe.config
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\CSTO.exe
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\CSTO.pdb
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\MySql.Data.dll
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Mocha\C# Practice\CSTO\CSTO\bin\Debug\MySql.Web.dll
+C:\Users\Mocha\C# Practice\CSTO\CSTO\obj\Debug\CSTO.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\CSTO\CSTO\obj\Debug\CSTO.exe
+C:\Users\Mocha\C# Practice\CSTO\CSTO\obj\Debug\CSTO.pdb

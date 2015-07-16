@@ -1,1 +1,2 @@
 C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\EasyToFit.exe.config
+C:\Users\Mocha\Documents\B-Git\EasyToFit\EasyToFit\bin\Debug\EasyToFit.exe.config

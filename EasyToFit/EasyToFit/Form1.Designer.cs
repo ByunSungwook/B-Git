@@ -1,6 +1,6 @@
 ﻿namespace EasyToFit
 {
-    partial class EasyToFit
+    partial class Title
     {
         /// <summary>
         /// 필수 디자이너 변수입니다.
@@ -31,16 +31,15 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.label1 = new System.Windows.Forms.Label();
+            this.ETF = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.Tall = new System.Windows.Forms.TextBox();
+            this.rectrain = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.Calc = new System.Windows.Forms.Button();
+            this.bmi = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.Weight = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.SuspendLayout();
@@ -49,7 +48,6 @@
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Location = new System.Drawing.Point(559, 12);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -76,24 +74,15 @@
             this.tabPage2.Text = "추천식단";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // tabPage3
+            // ETF
             // 
-            this.tabPage3.Location = new System.Drawing.Point(4, 22);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(429, 688);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "운동플래너";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("한컴 쿨재즈 L", 40F);
-            this.label1.Location = new System.Drawing.Point(2, 2);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(244, 55);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Easy To Fit";
+            this.ETF.AutoSize = true;
+            this.ETF.Font = new System.Drawing.Font("한컴 쿨재즈 L", 40F);
+            this.ETF.Location = new System.Drawing.Point(2, 2);
+            this.ETF.Name = "ETF";
+            this.ETF.Size = new System.Drawing.Size(244, 55);
+            this.ETF.TabIndex = 1;
+            this.ETF.Text = "Easy To Fit";
             // 
             // label2
             // 
@@ -105,19 +94,19 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "키(cm)";
             // 
-            // textBox1
+            // Tall
             // 
-            this.textBox1.Location = new System.Drawing.Point(94, 80);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(115, 21);
-            this.textBox1.TabIndex = 3;
+            this.Tall.Location = new System.Drawing.Point(94, 80);
+            this.Tall.Name = "Tall";
+            this.Tall.Size = new System.Drawing.Size(115, 21);
+            this.Tall.TabIndex = 3;
             // 
-            // textBox2
+            // rectrain
             // 
-            this.textBox2.Location = new System.Drawing.Point(186, 238);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(115, 21);
-            this.textBox2.TabIndex = 5;
+            this.rectrain.Location = new System.Drawing.Point(186, 238);
+            this.rectrain.Name = "rectrain";
+            this.rectrain.Size = new System.Drawing.Size(115, 21);
+            this.rectrain.TabIndex = 5;
             // 
             // label3
             // 
@@ -129,24 +118,24 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "일일권장운동량";
             // 
-            // button1
+            // Calc
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button1.Font = new System.Drawing.Font("맑은 고딕", 12F);
-            this.button1.Location = new System.Drawing.Point(186, 127);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 36);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "계산!";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.Calc.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.Calc.Font = new System.Drawing.Font("맑은 고딕", 12F);
+            this.Calc.Location = new System.Drawing.Point(186, 127);
+            this.Calc.Name = "Calc";
+            this.Calc.Size = new System.Drawing.Size(135, 36);
+            this.Calc.TabIndex = 6;
+            this.Calc.Text = "계산!";
+            this.Calc.UseVisualStyleBackColor = false;
+            this.Calc.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox3
+            // bmi
             // 
-            this.textBox3.Location = new System.Drawing.Point(186, 208);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(115, 21);
-            this.textBox3.TabIndex = 8;
+            this.bmi.Location = new System.Drawing.Point(186, 208);
+            this.bmi.Name = "bmi";
+            this.bmi.Size = new System.Drawing.Size(115, 21);
+            this.bmi.TabIndex = 8;
             // 
             // label4
             // 
@@ -158,13 +147,13 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "BMI 지수";
             // 
-            // textBox4
+            // Weight
             // 
-            this.textBox4.Location = new System.Drawing.Point(383, 80);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(115, 21);
-            this.textBox4.TabIndex = 10;
-            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+            this.Weight.Location = new System.Drawing.Point(383, 80);
+            this.Weight.Name = "Weight";
+            this.Weight.Size = new System.Drawing.Size(115, 21);
+            this.Weight.TabIndex = 10;
+            this.Weight.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // label5
             // 
@@ -176,23 +165,23 @@
             this.label5.TabIndex = 9;
             this.label5.Text = "몸무게(kg)";
             // 
-            // EasyToFit
+            // Title
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1008, 730);
-            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.Weight);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.bmi);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.Calc);
+            this.Controls.Add(this.rectrain);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Tall);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.ETF);
             this.Controls.Add(this.tabControl1);
-            this.Name = "EasyToFit";
+            this.Name = "Title";
             this.Text = "EasyToFit";
             this.tabControl1.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -205,17 +194,16 @@
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label ETF;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox Tall;
+        private System.Windows.Forms.TextBox rectrain;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Button Calc;
+        private System.Windows.Forms.TextBox bmi;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox Weight;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TabPage tabPage3;
     }
 }
 

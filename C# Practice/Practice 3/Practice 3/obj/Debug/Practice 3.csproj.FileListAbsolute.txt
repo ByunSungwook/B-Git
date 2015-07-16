@@ -1,0 +1,6 @@
+C:\Users\Mocha\C# Practice\Practice 3\Practice 3\bin\Debug\Practice 3.exe.config
+C:\Users\Mocha\C# Practice\Practice 3\Practice 3\bin\Debug\Practice 3.exe
+C:\Users\Mocha\C# Practice\Practice 3\Practice 3\bin\Debug\Practice 3.pdb
+C:\Users\Mocha\C# Practice\Practice 3\Practice 3\obj\Debug\Practice 3.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\Practice 3\Practice 3\obj\Debug\Practice 3.exe
+C:\Users\Mocha\C# Practice\Practice 3\Practice 3\obj\Debug\Practice 3.pdb

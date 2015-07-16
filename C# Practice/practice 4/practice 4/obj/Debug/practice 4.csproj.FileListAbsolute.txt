@@ -1,0 +1,6 @@
+C:\Users\Mocha\C# Practice\practice 4\practice 4\bin\Debug\practice 4.exe.config
+C:\Users\Mocha\C# Practice\practice 4\practice 4\bin\Debug\practice 4.exe
+C:\Users\Mocha\C# Practice\practice 4\practice 4\bin\Debug\practice 4.pdb
+C:\Users\Mocha\C# Practice\practice 4\practice 4\obj\Debug\practice 4.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\practice 4\practice 4\obj\Debug\practice 4.exe
+C:\Users\Mocha\C# Practice\practice 4\practice 4\obj\Debug\practice 4.pdb

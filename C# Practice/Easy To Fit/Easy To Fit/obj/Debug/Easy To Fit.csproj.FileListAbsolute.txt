@@ -1,0 +1,11 @@
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\bin\Debug\Easy To Fit.exe.config
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\bin\Debug\Easy To Fit.exe
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\bin\Debug\Easy To Fit.pdb
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy To Fit.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy_To_Fit.Properties.Resources.resources
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy To Fit.csproj.GenerateResource.Cache
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy To Fit.exe
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy To Fit.pdb
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy_To_Fit.Main.resources
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy_To_Fit.Login.resources
+C:\Users\Mocha\C# Practice\Easy To Fit\Easy To Fit\obj\Debug\Easy_To_Fit.Signup.resources

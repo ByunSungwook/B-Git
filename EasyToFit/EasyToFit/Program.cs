@@ -16,7 +16,7 @@ namespace EasyToFit
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new EasyToFit());
+            Application.Run(new Title());
         }
     }
 }

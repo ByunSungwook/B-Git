@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EasyToFit
 {
-    public partial class EasyToFit : Form
+    public partial class Title : Form
     {
-        public EasyToFit()
+        public Title()
         {
             InitializeComponent();
         }

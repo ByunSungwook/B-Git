@@ -1,3 +1,4 @@
+open('list.txt', 'r+')
 list = {'apple':3, 'banana':6, 'Doughnut':8, 'Eclair':7 }
 
 print "Welcome. Let's start the game."

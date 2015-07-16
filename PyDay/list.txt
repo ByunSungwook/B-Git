@@ -1,0 +1,5 @@
+Apple 1
+banana 3
+pasta 1
+kiwi 2
+milk 1

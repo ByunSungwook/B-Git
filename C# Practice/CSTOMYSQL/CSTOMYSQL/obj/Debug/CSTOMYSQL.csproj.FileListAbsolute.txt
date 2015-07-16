@@ -1,0 +1,14 @@
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\CSTOMYSQL.exe.config
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\CSTOMYSQL.exe
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\CSTOMYSQL.pdb
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\MySql.Data.dll
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\bin\Debug\MySql.Web.dll
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\obj\Debug\CSTOMYSQL.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\obj\Debug\CSTOMYSQL.Form1.resources
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\obj\Debug\CSTOMYSQL.Properties.Resources.resources
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\obj\Debug\CSTOMYSQL.csproj.GenerateResource.Cache
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\obj\Debug\CSTOMYSQL.exe
+C:\Users\Mocha\C# Practice\CSTOMYSQL\CSTOMYSQL\obj\Debug\CSTOMYSQL.pdb
