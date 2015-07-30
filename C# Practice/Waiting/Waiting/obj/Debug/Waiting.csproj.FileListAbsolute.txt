@@ -1,0 +1,10 @@
+C:\Users\Mocha\C# Practice\Waiting\Waiting\bin\Debug\Waiting.exe.config
+C:\Users\Mocha\C# Practice\Waiting\Waiting\bin\Debug\Waiting.exe
+C:\Users\Mocha\C# Practice\Waiting\Waiting\bin\Debug\Waiting.pdb
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.Number.resources
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.Properties.Resources.resources
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.csproj.GenerateResource.Cache
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.exe
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.pdb
+C:\Users\Mocha\C# Practice\Waiting\Waiting\obj\Debug\Waiting.Main.resources

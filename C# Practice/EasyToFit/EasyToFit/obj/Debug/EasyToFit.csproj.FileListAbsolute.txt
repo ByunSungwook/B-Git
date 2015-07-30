@@ -1,0 +1,17 @@
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\EasyToFit.exe.config
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\EasyToFit.exe
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\EasyToFit.pdb
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\MySql.Data.dll
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\bin\Debug\MySql.Web.dll
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.csprojResolveAssemblyReference.cache
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.Login.resources
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.Main.resources
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.Main_admin.resources
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.Properties.Resources.resources
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.Signup.resources
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.csproj.GenerateResource.Cache
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.exe
+C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\Debug\EasyToFit.pdb

@@ -1,8 +1,8 @@
 #-*- coding: utf-8 -*-
 from flask import Flask , render_template
 from flaskext.mysql import MySQL
-app=Flask(__name__)
-mysql=MySQL
+app = Flask(__name__)
+mysql = MySQL
 app.config["MYSQL_DATABASE_USER"]="serverstudy"
 app.config["MYSQL_DATABASE_PASSWORD"]="serverstudy!@#"
 app.config["MYSQL_DATABASE_HOST"]="data.khuhacker.com"
