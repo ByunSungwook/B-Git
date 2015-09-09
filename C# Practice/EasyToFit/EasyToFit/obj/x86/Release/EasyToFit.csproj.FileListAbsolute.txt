@@ -17,8 +17,6 @@ C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.pdb
 C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.csprojResolveAssemblyReference.cache
 C:\Users\Mocha\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.Client_info.resources
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\EasyToFit.exe.config
-C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.exe
-C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.pdb
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\EasyToFit.exe
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\EasyToFit.pdb
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\MySql.Data.dll
@@ -26,7 +24,6 @@ C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\M
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\MySql.Data.Entity.EF6.dll
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\MySql.Fabric.Plugin.dll
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\MySql.Web.dll
-C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.csprojResolveAssemblyReference.cache
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.Client_info.resources
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.Login.resources
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.Main.resources
@@ -34,3 +31,7 @@ C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\E
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.Properties.Resources.resources
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.Signup.resources
 C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.csproj.GenerateResource.Cache
+C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.exe
+C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\obj\x86\Release\EasyToFit.pdb
+C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\EasyToFit.exe.CodeAnalysisLog.xml
+C:\Users\Mocha\Documents\B-Git\C# Practice\EasyToFit\EasyToFit\bin\x86\Release\EasyToFit.exe.lastcodeanalysissucceeded
